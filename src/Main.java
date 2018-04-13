@@ -1,4 +1,6 @@
+@SuppressWarnings({"all","deprecation","unchecked"})
 public class Main {
+    @SuppressWarnings("all")
     public static void main(String[] args) {
         Author author = new Author("Sandi", "Metz");
 
